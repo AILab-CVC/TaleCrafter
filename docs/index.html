@@ -50,9 +50,9 @@
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h3 class="title is-1 publication-title">
+            <h4 class="title publication-title">
                 TaleCrafter: Interactive Story Visualization with Multiple Characters
-            </h3>
+            </h4>
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block">
@@ -141,7 +141,55 @@
   </div>
 </section>
 
-<!-- Paper abstract -->
+
+<!-- End paper abstract -->
+
+<!-- Teaser video-->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <!-- <h2 class="title is-3">Pipeline</h2> -->
+    <div class="l-article">
+      <img src="./static/images/teaser.jpg" width="100%">
+    </div>
+    <!-- <div class="l-article">
+      <img src="./static/images/pipeline.jpg" width="100%">
+    </div> -->
+  </div>
+</section>
+
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <!-- Paper video. -->
+      <h2 class="title is-3"><strong>Pipeline</h2>
+      <div class="video"  style="text-align:center">
+        <!--    <div class="l-page video">-->
+        <!-- <video controls="" loop="" width="100%"> -->
+            <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
+            <!-- <source src="static/videos/Supplementary.mp4" type="video/mp4"> -->
+        <!-- </video> -->
+        <img width='960px' src="static/videos/Supplementary.gif"/>
+    </div>
+    <div class="content has-text-justified">
+      <p style="font-size: 14px;">
+        Accurate Story visualization requires several necessary elements, such as identity consistency across frames, the alignment between plain text and visual content, and a reasonable layout of objects in images. 
+        Most previous works endeavor to meet these requirements by fitting a text-to-image (T2I) model on a set of videos in the same style and with the same characters, e.g., the FlintstonesSV dataset. 
+        However, the learned T2I models typically struggle to adapt to new characters, scenes, and styles, and often lack the flexibility to revise the layout of the synthesized images.
+        This paper proposes a system for generic interactive story visualization, capable of handling multiple novel characters and supporting the editing of layout and local structure. 
+        It is developed by leveraging the prior knowledge of large language and T2I models, trained on massive corpora. 
+        The system comprises four interconnected components: story-to-prompt generation (S2P), text-to-layout generation (T2L), controllable text-to-image generation (C-T2I), and image-to-video animation (I2V). 
+        First, the S2P module converts concise story information into detailed prompts required for subsequent stages. 
+        Next, T2L generates diverse and reasonable layouts based on the prompts, offering users the ability to adjust and refine the layout to their preference. 
+        The core component, C-T2I, enables the creation of images guided by layouts, sketches, and actor-specific identifiers to maintain consistency and detail across visualizations. 
+        Finally, I2V enriches the visualization process by animating the generated images.
+        Extensive experiments and a user study are conducted to validate the effectiveness and flexibility of interactive editing of the proposed system.
+      </p>
+    </div>
+    </div>
+  </div>
+</section>
+
+<!-- aper abstract
 <section class="section hero is-light">
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
@@ -165,26 +213,7 @@
       </div>
     </div>
   </div>
-</section>
-<!-- End paper abstract -->
-
-
-<section class="hero is-small is-light">
-  <div class="hero-body">
-    <div class="container">
-      <!-- Paper video. -->
-      <h2 class="title is-3"><strong>Video</strong>: Supplementary materials</h2>
-      <div class="video">
-        <!--    <div class="l-page video">-->
-        <video controls="" loop="" width="100%">
-            <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
-            <source src="static/videos/Supplementary.mp4" type="video/mp4">
-        </video>
-    </div>
-    </div>
-  </div>
-</section>
-
+</section> -->
 
 <section class="hero is-small is-light">
     <div class="hero-body">
@@ -193,15 +222,15 @@
         <h2 class="title is-3"><strong>Video</strong>: Demos</h2>
         <div class="video">
           <!--    <div class="l-page video">-->
-          <video controls="" loop="" width="32%">
+          <video controls="" loop="" width="99%">
               <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
               <source src="static/videos/demo1.mp4" type="video/mp4">
           </video>
-          <video controls="" loop="" width="32%">
+          <video controls="" loop="" width="99%">
             <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
             <source src="static/videos/demo2.mp4" type="video/mp4">
         </video>
-        <video controls="" loop="" width="32%">
+        <video controls="" loop="" width="99%">
             <!-- t=0.001 is a hack to make iPhone show video thumbnail -->
             <source src="static/videos/demo2.mp4" type="video/mp4">
         </video>
@@ -225,18 +254,7 @@
 
 
 
-<!-- Teaser video-->
-<section class="hero teaser">
-  <div class="container is-max-desktop">
-    <h2 class="title is-3">Pipeline</h2>
-    <div class="l-article">
-      <img src="./static/images/teaser.jpg" width="100%">
-    </div>
-    <div class="l-article">
-      <img src="./static/images/pipeline.jpg" width="100%">
-    </div>
-  </div>
-</section>
+
 <!-- End teaser video -->
 
   <!-- <section class="section" id="BibTeX">
