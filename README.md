@@ -1,13 +1,24 @@
-## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b>
+<div align="center">
 
-[Yuan Gong](https://github.com/yuanygong), Youxin Pang, [Xiaodong Cun](http://vinthony.github.io/), Menghan Xia, Haoxin Chen, Longyue Wang, [Yong Zhang](https://yzhang2016.github.io), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ) and Yujiu Yang
+<h2>TaleCrafter: Interactive Story Visualization with Multiple Characters </h2> 
+
+ <a href='https://arxiv.org/abs/TODO'><img src='https://img.shields.io/badge/ArXiv-TODO-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://VideoCrafter.github.io/TaleCrafter'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+  
+<!-- ## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b> -->
+
+_**[Yuan Gong](https://github.com/yuanygong), Youxin Pang, [Xiaodong Cun](http://vinthony.github.io/), [Menghan Xia](https://menghanxia.github.io/), Haoxin Chen, [Longyue Wang](http://longyuewang.com/),<br> [Yong Zhang*](https://yzhang2016.github.io), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ) and Yujiu Yang***_
+  
+(* Corresponding Authors)
+
+<p align="center"> <img src="assets/demo1.gif" width="700px"> </p>
 
 <!-- <table class="center">
 <td><img src="assets/demo1.gif"></td>
 <td><img src="assets/demo2.gif"></td>
 <td><img src="assets/demo3.gif"></td>
 </table > -->
-<p align="center"> <img src="docs/static/images/teaser.jpg" width="100%"> </p>
+
+  </div>
 
 ## 🎏 Abstract
 <b>TL; DR: <font color="red">TaleCrafter</font> is an interactive story visualization tool that support multiple characters.</b>
@@ -19,7 +30,8 @@
 This paper proposes a system for generic interactive story visualization, capable of handling multiple novel characters and supporting the editing of layout and local structure. It is developed by leveraging the prior knowledge of large language and T2I models, trained on massive corpora. The system comprises four interconnected components: story-to-prompt generation (S2P), text-to-layout generation (T2L), controllable text-to-image generation (C-T2I), and image-to-video animation (I2V). First, the S2P module converts concise story information into detailed prompts required for subsequent stages. Next, T2L generates diverse and reasonable layouts based on the prompts, offering users the ability to adjust and refine the layout to their preference. The core component, C-T2I, enables the creation of images guided by layouts, sketches, and actor-specific identifiers to maintain consistency and detail across visualizations. Finally, I2V enriches the visualization process by animating the generated images.
 Extensive experiments and a user study are conducted to validate the effectiveness and flexibility of interactive editing of the proposed system.
 <!-- </details> -->
-
+<p align="center"> <img src="docs/static/images/teaser.jpg" width="100%"> </p>
+  
 ## ⚔️ Overview
 <p align="center"> <img src="assets/pipeline.jpg" width="100%"> </p>
 The pipeline of our interactive story visualization system. The system comprises four components. (a) Story-to-prompt (S2P): a large language model is utilized to bridge the gap between the literary and artistic descriptions and the descriptions fed into T2I models. 
@@ -28,10 +40,16 @@ It comprehends the content in the given story and converts it into prompts suita
 (c) Controllable text-to-image (C-T2I): given various conditions such as prompt, layout, sketch, and a few images of each character, generates consistent-character images. It enables interactive editing of character, layout, and local structure through sketches. 
 (d) Image-to-video (I2V): extracts depth from the image and converts it into a video by setting the camera path for novel view synthesis.
 
-## 🌰 Examples
-<p align="center"> <img src="assets/demo1.gif" width="70%"> </p>
+## 🌰 More Examples
+<!-- <p align="center"> <img src="assets/demo1.gif" width="70%"> </p> -->
 <p align="center"> <img src="assets/demo2.gif" width="70%"> </p>
 <p align="center"> <img src="assets/demo3.gif" width="70%"> </p>
 
 ## 📀 Demo Video
 <p align="center"> <img src="/apdcephfs/private_yuanygong/code/TaleCrafter/docs/static/videos/Supplementary.gif" width="100%"> </p>
+
+
+## Citation
+```bib
+TBD
+```
