@@ -1,6 +1,6 @@
 ## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b>
 
-[Yuan Gong](https://github.com/yuanygong), Youxin Pang, [Xiaodong Cun](http://vinthony.github.io/), Menghan Xia, Haoxin Chen, Longyue Wang, [Yong Zhang](https://yzhang2016.github.io), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ), Ying Shan and Yujiu Yang
+[Yuan Gong](https://github.com/yuanygong), Youxin Pang, [Xiaodong Cun](http://vinthony.github.io/), Menghan Xia, Haoxin Chen, Longyue Wang, [Yong Zhang](https://yzhang2016.github.io), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ) and Yujiu Yang
 
 <!-- <table class="center">
 <td><img src="assets/demo1.gif"></td>
