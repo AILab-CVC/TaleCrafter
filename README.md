@@ -2,7 +2,7 @@
 
 <h2>TaleCrafter: Interactive Story Visualization with Multiple Characters </h2> 
 
- <a href='https://arxiv.org/abs/TODO'><img src='https://img.shields.io/badge/ArXiv-TODO-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://VideoCrafter.github.io/TaleCrafter'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+ <a href='https://arxiv.org/abs/2305.18247'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://VideoCrafter.github.io/TaleCrafter'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
   
 <!-- ## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b> -->
 
@@ -55,5 +55,12 @@ It comprehends the content in the given story and converts it into prompts suita
 
 ## Citation
 ```bib
-TBD
+@article{gong2023talecrafter,
+      title={TaleCrafter: Interactive Story Visualization with Multiple Characters}, 
+      author={Yuan Gong and Youxin Pang and Xiaodong Cun and Menghan Xia and Haoxin Chen and Longyue Wang and Yong Zhang and Xintao Wang and Ying Shan and Yujiu Yang},
+      year={2023},
+      eprint={2305.18247},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
