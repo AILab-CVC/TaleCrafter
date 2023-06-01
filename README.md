@@ -58,9 +58,9 @@ https://user-images.githubusercontent.com/103869735/242510950-7b27cc0f-8652-4b3c
 
 ## Citation
 ```bib
-@article{gong2023talecrafter,
+@misc{gong2023talecrafter,
       title={TaleCrafter: Interactive Story Visualization with Multiple Characters}, 
-      author={Yuan Gong and Youxin Pang and Xiaodong Cun and Menghan Xia and Haoxin Chen and Longyue Wang and Yong Zhang and Xintao Wang and Ying Shan and Yujiu Yang},
+      author={Yuan Gong and Youxin Pang and Xiaodong Cun and Menghan Xia and Yingqing He and Haoxin Chen and Longyue Wang and Yong Zhang and Xintao Wang and Ying Shan and Yujiu Yang},
       year={2023},
       eprint={2305.18247},
       archivePrefix={arXiv},
