@@ -46,7 +46,9 @@ It comprehends the content in the given story and converts it into prompts suita
 
 ## 🌰 More Examples
 https://user-images.githubusercontent.com/103869735/242510346-ce078f30-769e-4ef5-b7a1-b48dd943c1ed.mp4
+
 https://user-images.githubusercontent.com/103869735/242510784-f79c2e65-baad-4da0-813c-5690ad53d47a.mp4
+
 https://user-images.githubusercontent.com/103869735/242510950-7b27cc0f-8652-4b3c-9773-6c3ae3069b8b.mp4
 
 <!-- ## 📀 Demo Video
