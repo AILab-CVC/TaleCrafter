@@ -45,14 +45,9 @@ It comprehends the content in the given story and converts it into prompts suita
 (d) Image-to-video (I2V): extracts depth from the image and converts it into a video by setting the camera path for novel view synthesis.
 
 ## 🌰 More Examples
-<video src="https://github.com/VideoCrafter/TaleCrafter/blob/main/docs/static/videos/demo1.mp4?raw=true" controls>
-</video>
-<video src="https://github.com/VideoCrafter/TaleCrafter/blob/main/docs/static/videos/demo2.mp4?raw=true" controls>
-</video>
-<video src="https://github.com/VideoCrafter/TaleCrafter/blob/main/docs/static/videos/demo3.mp4?raw=true" controls>
-</video>
-
-
+https://user-images.githubusercontent.com/103869735/242510346-ce078f30-769e-4ef5-b7a1-b48dd943c1ed.mp4
+https://user-images.githubusercontent.com/103869735/242510784-f79c2e65-baad-4da0-813c-5690ad53d47a.mp4
+https://user-images.githubusercontent.com/103869735/242510950-7b27cc0f-8652-4b3c-9773-6c3ae3069b8b.mp4
 
 <!-- ## 📀 Demo Video
 <video src="https://github.com/VideoCrafter/TaleCrafter/blob/main/docs/static/videos/Supplementary.mp4?raw=true" controls>
