@@ -2,7 +2,7 @@
 
 <h2>TaleCrafter: Interactive Story Visualization with Multiple Characters </h2> 
 
- <a href='https://arxiv.org/abs/2305.18247'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://VideoCrafter.github.io/TaleCrafter'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+ <a href='https://arxiv.org/abs/2305.18247'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://AILab-CVC.github.io/TaleCrafter'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
   
 <!-- ## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b> -->
 
