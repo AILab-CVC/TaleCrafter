@@ -4,12 +4,19 @@
 
  <a href='https://arxiv.org/abs/2305.18247'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://AILab-CVC.github.io/TaleCrafter'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
 
+
+ 🎏 **Please check the improved and open-sourced work [OMG](https://github.com/kongzhecn/OMG) that supports both LoRAs and InstantID for multiple concept personalization.** 
+
+
  <b> SIGGRAPH Asia 2023 </b>
 <!-- ## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b> -->
+
 
 _**[Yuan Gong](https://github.com/yuanygong), [Youxin Pang](https://carlyx.github.io/), [Xiaodong Cun](http://vinthony.github.io/), [Menghan Xia](https://menghanxia.github.io/), Yingqing He, Haoxin Chen, [Longyue Wang](http://longyuewang.com/),<br> [Yong Zhang*](https://yzhang2016.github.io), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?hl=zh-CN&user=4oXBp9UAAAAJ) and Yujiu Yang***_
   
 (* Corresponding Authors)
+
+
 
 
 <p align="center"> <img src="assets/demo1.gif" width="700px"> </p>
